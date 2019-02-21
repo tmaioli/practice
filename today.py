@@ -3,7 +3,7 @@
 # code Python
 # date 2019-02-09
 # Project name Today
-# Issues and concerns: none
+# Issues and concerns: none.
 #
 # **************************
 #

@@ -3,7 +3,6 @@
 # date 2019-02-08
 # Project name: Division
 # Issues and concerns: Problem domain "division"
-# Keep your code & powder dry!
 
 
 def divide(num, den):

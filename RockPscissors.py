@@ -1,7 +1,7 @@
 '''
 
 # Project Title: Rock paper scissors
-# Version: 1.0
+# Version: 1.0.0
 # Instructions:
 # Prerequisites: Python 3
 # Built with: Atom text editor

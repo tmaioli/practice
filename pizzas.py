@@ -4,7 +4,7 @@
 # Built with: Python 3.7
 # Coded on: Atom text editor
 # Thomas Maioli
-# date 2019-02-10
+# date 2019-02-20
 # Project name: Pizza's
 # Issues and concerns: none
 # Problem domain: Solve poker night Problem

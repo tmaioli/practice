@@ -1,3 +1,7 @@
+
+# What is this?  Just playing around
+
+
 number = 5
 msg = "high"
 print(msg)
@@ -28,7 +32,3 @@ msg = "Your name:   "
 print(msg)
 username = input()
 print("Hello " + username)
-
-
-
-

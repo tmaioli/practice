@@ -1,6 +1,6 @@
 # Thomas maioli
 # coded in  Python
-# date 2019-02-08
+# date 2019-02-20
 # Project name Name_here
 # Issues and concerns: Problem domain "division"
 # Keep your code & powder dry!
