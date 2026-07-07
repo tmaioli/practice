@@ -7,11 +7,9 @@
 # Built with: Atom text editor
 # Thomas Maioli
 # coded in: Python 3.7
-# date: 2019-02-20
+# date: 2019-02-20 and 2026-07-07
 # Project name:
 # Issues and concerns: none
-# Problem domain:
-# Keep your code dry. :)
 
 
 Find e to the Nth Digit -
