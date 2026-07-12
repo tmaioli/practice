@@ -1,0 +1,9 @@
+# Python Practice Repository - Dependencies
+# This project uses only Python standard library modules:
+# - math
+# - random
+# - collections
+# - sys
+#
+# No external dependencies required.
+# Compatible with Python 3.7+
